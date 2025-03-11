@@ -1,14 +1,8 @@
 <!-- omit in toc -->
 # Learn Ruby: a resource list
 
-Hi! This road map has helped me as a second-career developer who didn't do a bootcamp. I hope it helps you too.
-
-Notice a broken link? Or want to suggest an addition? [Open an issue!](https://github.com/fpsvogel/learn-ruby/issues/new)
-
 <!-- omit in toc -->
 ## Table of contents
-
-The "not done" sections (currently "Foundational tools" and below) are somewhat chaotic because I haven't yet seen what's worth keeping there.
 
 - [Preliminaries](#preliminaries)
 - [Basics](#basics)
